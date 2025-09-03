@@ -20,47 +20,23 @@ This project performs an Exploratory Data Analysis (EDA) on the **Global Terrori
 
 ---
 
-## 🔑 Key Analyses  
+## 🔑 Key Analyses & Visuals  
 
-### 📈 Temporal Analysis  
-- Visualized yearly terrorism trends (1970–2017)  
-- **Finding:** Sharp escalation in attacks after 2010  
-
-📌 *Insert Visualization Here → e.g., yearly_attacks.png*  
+### 1️⃣ Yearly Attack Trends  
+![Yearly attack Trends](Yearly_Attacks_Count_Plot)  
+- **Finding:** Terrorist incidents increased dramatically over the decades, with a sharp rise after 2010.  
 
 ---
 
-### 🌍 Geographical Analysis  
-- Bar plots of top countries and cities affected  
-- Interactive Folium maps with marker clusters  
-- **Finding:** Iraq, Afghanistan, and Pakistan are the hardest hit globally  
-
-📌 *Insert Heatmap or Map Placeholder → e.g., terrorism_hotzones.png*  
+### 2️⃣ Casualties by Country  
+📌 *Insert: `Killed_by_Country_Bar_Chart.png`*  
+- **Finding:** Iraq, Afghanistan, and Pakistan recorded the highest number of terrorism-related deaths, highlighting that terrorism disproportionately impacts these regions.  
 
 ---
 
-### 🎯 Attack Type Analysis  
-- Pie charts showing fatalities by attack type  
-- **Finding:** Bombing/Explosion and Armed Assault cause the most deaths  
-
-📌 *Insert Pie Chart Placeholder → e.g., attack_types.png*  
-
----
-
-### 🧍 Casualty Analysis  
-- Bar plots of total casualties by country  
-- **Finding:** Muslim-majority countries bear the heaviest human cost  
-
-📌 *Insert Bar Chart Placeholder → e.g., casualties_by_country.png*  
-
----
-
-### 🕵️ Group Analysis  
-- Most active groups identified using value counts  
-- Mapped operational areas of Taliban and ISIL  
-- **Finding:** Taliban and ISIL are among the most lethal global perpetrators  
-
-📌 *Insert Group Map Placeholder → e.g., taliban_isil_map.png*  
+### 3️⃣ Attack Trends Over Time  
+📌 *Insert: `Attack_Trends_Over_The_Years_Bar_Plot.png`*  
+- **Finding:** Bombing/Explosion and Armed Assault consistently emerge as the most frequent and lethal attack types worldwide.  
 
 ---
 
