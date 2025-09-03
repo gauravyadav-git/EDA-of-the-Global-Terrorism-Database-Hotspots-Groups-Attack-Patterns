@@ -23,19 +23,19 @@ This project performs an Exploratory Data Analysis (EDA) on the **Global Terrori
 ## 🔑 Key Analyses & Visuals  
 
 ### 1️⃣ Yearly Attack Trends  
-![Yearly attack Trends](Yearly_Attacks_Count_Plot)  
+![Yearly attack Trends](Yearly_Attacks_Count_Plot.png) 
 - **Finding:** Terrorist incidents increased dramatically over the decades, with a sharp rise after 2010.  
 
 ---
 
 ### 2️⃣ Casualties by Country  
-📌 *Insert: `Killed_by_Country_Bar_Chart.png`*  
+![Number of kills by Country](Killed_by_Country_Bar_Chart.png) 
 - **Finding:** Iraq, Afghanistan, and Pakistan recorded the highest number of terrorism-related deaths, highlighting that terrorism disproportionately impacts these regions.  
 
 ---
 
 ### 3️⃣ Attack Trends Over Time  
-📌 *Insert: `Attack_Trends_Over_The_Years_Bar_Plot.png`*  
+![Attack Trends Over the years](Attack_Trends_Over_The_Years_Bar_Plot.png) 
 - **Finding:** Bombing/Explosion and Armed Assault consistently emerge as the most frequent and lethal attack types worldwide.  
 
 ---
